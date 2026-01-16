@@ -58,7 +58,7 @@ El sistema final implementa un pipeline modular optimizado para **tiempo real**:
 ---
 
 ## 📂 Contenido del Repositorio
-* `ProyectoFinalVC.ipynb`: Cuaderno con el pipeline de ingeniería de datos, entrenamiento y validación.
+* `ProyectoFinal.ipynb`: Cuaderno con el pipeline de ingeniería de datos, entrenamiento y validación.
 * `Memoria_Tecnica.pdf`: Documentación detallada con el marco teórico y análisis científico.
 * `video_demo.mp4`: Demostración del sistema en funcionamiento real.
 
